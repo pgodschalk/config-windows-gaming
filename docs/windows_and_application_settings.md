@@ -2180,6 +2180,11 @@ anti-aliasing for older games with buggy implementations.
 | Codec                 | AV1     |             |
 | Bit rate (Mbps)       | 230     |             |
 
+### nvidiaProfileInspector
+
+Sourced from
+[nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
+
 ### NZXT CAM
 
 ```powershell
